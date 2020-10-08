@@ -1,4 +1,4 @@
-# TheReplierTwitterBot
+# The Replier Twitter Bot
 A python bot that searchs for a specific hashtag in tweeter and replies to them with a random quote or poem stored in two excel columns.
 
 Requiremnts:
